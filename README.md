@@ -68,7 +68,7 @@ hcahps-patient-survey/
 
 ### 1. Overall Patient Satisfaction Slightly Declined
 Despite 9 years of data collection, the national average Top Box % dropped from
-**71.0% (2014) to 69.4% (2022)** — a decline of **1.6 percentage points**. This suggests
+**71.0% (2014) to 69.4% (2022)** a decline of **1.6 percentage points**. This suggests
 that while some areas improved, others deteriorated enough to pull the overall average down.
 
 ### 2. Care Transition Is the Biggest Concern
@@ -83,26 +83,26 @@ before leaving, even if verbal preparation (Care Transition) lags behind.
 
 ### 4. Quietness Remains Stubbornly Low
 The quietness of hospital environments at night scored just **62%** in 2022 and
-showed minimal improvement over 9 years — suggesting this is a structural
+showed minimal improvement over 9 years suggesting this is a structural
 challenge that simple training programmes haven't been able to fix.
 
 ### 5. Geographic Inequality Is Significant
 New England states (Massachusetts, Connecticut, Vermont) consistently outperform
 the rest of the country. Southern states (Mississippi, Alabama, Louisiana) consistently
-score lowest — a gap of **4–6 percentage points** that has persisted across all 9 years.
+score lowest a gap of **4–6 percentage points** that has persisted across all 9 years.
 
 ---
 
 ## 💡 Recommendations
 
 Despite steady improvements over 9 years, hospitals still have clear areas to address.
-Quietness remains the lowest-rated experience — enforcing quiet hours and reducing
+Quietness remains the lowest-rated experience enforcing quiet hours and reducing
 night-time noise should be an immediate priority. Patients also need clearer, jargon-free
 explanations of their medicines and a written plan before leaving hospital, as Care
 Transition scores show many still feel unprepared going home. Hospitals in lower-scoring
-regions — particularly in the South — should look to New England, which consistently leads
+regions particularly in the South should look to New England, which consistently leads
 the country in patient experience, and adopt their communication and discharge practices.
-Where progress has been made — especially in doctor and nurse communication — that
+Where progress has been made especially in doctor and nurse communication that
 momentum must be protected and built upon.
 
 ---
