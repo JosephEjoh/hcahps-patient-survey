@@ -1,6 +1,6 @@
 # 🏥 HCAHPS Patient Survey — US Hospital Experience Analysis (2014–2022)
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Page 1](dashboard_preview.png)  ![Dashboard Page 2](dashboard_preview_2.png)
 
 ## 📌 Project Overview
 
